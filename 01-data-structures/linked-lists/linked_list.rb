@@ -74,3 +74,17 @@ class LinkedList
   end
 end
 
+# return @head after the changes
+
+
+
+
+
+
+
+
+
+
+
+
+
